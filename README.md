@@ -1,4 +1,4 @@
-#Projeto de sintaxe e operadores 
+# Projeto de sintaxe e operadores
 
 Script em js feito com o bootcamp da inter pela DIO.
 funcionalidades: 
